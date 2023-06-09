@@ -1,6 +1,7 @@
-# dicee_flutter
+# My takeaways and learnings: dicee_flutter
 
-A new Flutter project.
+1. I learned that a semicolon after a function results in an error on Flutter.
+2. Stateful widgets need a "setState()" function along with them to update the "state" of the app 
 
 ## Getting Started
 
